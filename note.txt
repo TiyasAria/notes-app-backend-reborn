@@ -1,0 +1,7 @@
+langkah yang pertama 
+1. silahkan install hapi (npm install @hapi/hapi)  
+2.  buat http server terlebih dahulu  di server.js 
+3. buatlah route nya untuk menambahkan catatan terlebih dahulu 
+4. tambahkan var note di notes.js dengan tipe data array kosoong , ini nantinya akan kita isi 
+ dengan objek caatatan yang telah kita buat nanti 
+ 
